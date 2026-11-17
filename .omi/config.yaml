@@ -1,0 +1,6 @@
+github:
+  owner: omi-home
+  repo: omi-spike-p0-20261117
+  projectNumber: 1
+checks:
+  test: { run: npm test, timeoutSec: 120 }
